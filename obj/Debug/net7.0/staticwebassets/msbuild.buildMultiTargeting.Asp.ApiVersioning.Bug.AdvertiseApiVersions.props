@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Asp.ApiVersioning.Bug.AdvertiseApiVersions.props" />
+</Project>

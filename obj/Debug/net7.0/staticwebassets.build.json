@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s3lWf0XsBFjN7LTyaDydA/1J3D6xFJKJHklJt15jwq8=",
+  "Source": "Asp.ApiVersioning.Bug.AdvertiseApiVersions",
+  "BasePath": "_content/Asp.ApiVersioning.Bug.AdvertiseApiVersions",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
